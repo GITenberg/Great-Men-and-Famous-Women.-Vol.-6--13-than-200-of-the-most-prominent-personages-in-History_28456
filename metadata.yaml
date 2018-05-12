@@ -1,0 +1,29 @@
+_repo: Great-Men-and-Famous-Women.-Vol.-6--13-than-200-of-the-most-prominent-personages-in-History_28456
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Horne, Charles F. (Charles Francis)
+    alias: Horne, Charles Francis
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '3319'
+    url: http://www.gutenberg.org/2009/agents/3319
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
+description: ''
+gutenberg_issued: '2009-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcc 'CT'
+title: "Great Men and Famous Women. Vol. 6\r\nA series of pen and pencil sketches\
+  \ of the lives of more than 200 of the most prominent personages in History"
+url: http://www.gutenberg.org/ebooks/28456
